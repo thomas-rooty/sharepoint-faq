@@ -18,3 +18,7 @@ Puis déployez le ```spfxwebparts.sppkg``` dans votre catalogue d'application.
 - Sorting is enabled on both the category & Question
 
 <img src="https://telemetry.sharepointpnp.com/sp-dev-fx-webparts/samples/react-FAQApp" />
+
+## Example
+
+![](https://i.imgur.com/YtRW7EE.png)
